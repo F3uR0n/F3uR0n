@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Farhan Sadik
 
-<!--
-**F3uR0n/F3uR0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at BRAC University  
+💻 Interested in Backend, Databases & System Design  
+🚀 Currently learning Flask, MySQL, APIs  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Languages: Java, Python, C
+- Backend: Flask, FastAPI
+- Database: MySQL
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📌 Current Focus
+- Building database-driven web apps
+- Learning REST API design
+- Preparing for real-world projects
+
+---
+
+## 📫 Connect with Me
+- Email: yourmail@gmail.com
+- LinkedIn: https://linkedin.com/in/yourname
