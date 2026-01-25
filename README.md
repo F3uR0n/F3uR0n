@@ -58,8 +58,12 @@
 
 ---
 
-<picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F3uR0n/snk/output/github-contribution-grid-snake-dark.svg"> 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F3uR0n/snk/output/github-contribution-grid-snake.svg"> 
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/F3uR0n/snk/output/github-contribution-grid-snake.svg"> 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake.svg">
 </picture>
+
