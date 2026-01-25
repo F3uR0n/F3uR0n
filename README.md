@@ -9,7 +9,7 @@
 ---
 
 ## 🙋‍♂️ About Me
-- 🎓 CSE undergraduate at **BRAC University**
+- 🎓 CS undergraduate at **BRAC University**
 - 💻 Interested in **Backend, Algorithms, and Problem Solving**
 - 🚀 Exploring **Web, ML, and Systems**
 - 📫 Reach me at **farhansadiknihal@gmail.com**
