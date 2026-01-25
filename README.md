@@ -45,11 +45,11 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,flask,html,css,mysql,git,arduino" />
+<img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,flask,html,css" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,graphql,go,rust,nestjs,aws" />
+<img src="https://skillicons.dev/icons?i=nextjs,mysql,git,arduino" />
 </p>
 
 ---
@@ -57,10 +57,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=f3ur0n&show_icons=true&layout=compact" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=f3ur0n&theme=dracula" height="150" />
 </p>
 
 ---
