@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhan Sadik</h1>
 <h3 align="center">3rd Year Computer Science Student at BRAC University</h3>
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=f3ur0n&label=Profile%20views&color=0e75b6&style=flat" alt="f3ur0n" />
 </p>
@@ -44,7 +42,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,flask,html,css" />
 </p>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,mysql,git,arduino" />
 </p>
@@ -53,17 +50,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=f3ur0n&show_icons=true&layout=compact" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=f3ur0n&show_icons=true&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=repo1,repo2" height="150" />
 </p>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake.svg">
 </picture>
-
