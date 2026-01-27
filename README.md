@@ -53,7 +53,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://githubreadmestats.vercel.app/api/toplangs/username=f3ur0n&layout=compact&langs_count=8&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=f3ur0n&show_icons=true&layout=compact" height="150" />
 </p>
 
 ---
