@@ -40,10 +40,10 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,flask,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,js,flask,html,css" />
 </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,mysql,git,arduino" />
+<img src="https://skillicons.dev/icons?i=mysql,git,arduino" />
 </p>
 
 ---
