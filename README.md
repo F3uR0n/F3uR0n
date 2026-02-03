@@ -50,7 +50,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats-seven-ruby-93.vercel.app/api/top-langs?username=f3ur0n&layout=compact&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=f3ur0n&show_icons=true&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=repo1,repo2" height="150" />
 </p>
 
 ---
