@@ -43,7 +43,7 @@
 <img src="https://skillicons.dev/icons?i=java,python,js,flask,html,css" />
 </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,git,arduino" />
+<img src="https://skillicons.dev/icons?i=mysql,github,arduino,sklearn" />
 </p>
 
 ---
