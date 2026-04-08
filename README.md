@@ -8,8 +8,8 @@
 
 ## 🙋‍♂️ About Me
 - 🎓 CS undergraduate at **BRAC University**
-- 💻 Interested in **Backend, Algorithms, and Problem Solving**
-- 🚀 Exploring **Web, ML, and Systems**
+- 💻 Interested in **Backend, Algorithms, Patterns and Problem Solving**
+- 🚀 Exploring **Web, ML, AI and System Design**
 - 📫 Reach me at **farhansadiknihal@gmail.com**
 
 ---
@@ -44,6 +44,7 @@
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,github,arduino,sklearn" />
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
 </p>
 
 ---
