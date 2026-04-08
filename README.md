@@ -42,9 +42,8 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,js,flask,html,css" />
 </p>
-<p align="center" style="display:flex; justify-content:center; align-items:center; gap:10px; flex-wrap:wrap;">
-  <img src="https://skillicons.dev/icons?i=mysql,github,arduino,sklearn" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,github,arduino,sklearn,opengl" />
 </p>
 
 ---
