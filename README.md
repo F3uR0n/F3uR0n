@@ -44,7 +44,7 @@
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,github,arduino,sklearn" />
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
+<img src="https://raw.githubusercontent.com/f3ur0n/f3ur0n/main/opengl.png" width="48" height="48" />
 </p>
 
 ---
