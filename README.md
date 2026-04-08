@@ -44,7 +44,7 @@
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,github,arduino,sklearn" />
-<img src="https://raw.githubusercontent.com/f3ur0n/f3ur0n/main/opengl.png" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/f3ur0n/f3ur0n/main/opengl.png" width="48" height="48" style="border-radius: 10px;" />
 </p>
 
 ---
