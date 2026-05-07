@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=f3ur0n&label=Profile%20views&color=0e75b6&style=flat" alt="f3ur0n" />
+  <img src="cat.gif" width="700"/>
 </p>
 - 🎓 CS undergraduate at **BRAC University**
 - 💻 Interested in **Backend, Algorithms, Patterns and Problem Solving**
