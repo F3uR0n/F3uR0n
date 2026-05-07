@@ -8,8 +8,9 @@
 
 ## 🙋‍♂️ About Me
 <p align="center">
-  <img src="cat.gif" width="700"/>
+  <img src="cat.gif" width="350"/>
 </p>
+
 - 🎓 CS undergraduate at **BRAC University**
 - 💻 Interested in **Backend, Algorithms, Patterns and Problem Solving**
 - 🚀 Exploring **Web, ML, AI and System Design**
