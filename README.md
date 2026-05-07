@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Farhan Sadik</h1>
 <h3 align="center">3rd Year Computer Science Student at BRAC University</h3>
 <p align="center">
-  <img src="cat.gif" width="350"/>
+  <img src="https://komarev.com/ghpvc/?username=f3ur0n&label=Profile%20views&color=0e75b6&style=flat" alt="f3ur0n" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=f3ur0n&label=Profile%20views&color=0e75b6&style=flat" alt="f3ur0n" />
+  <img src="cat.gif" width="350"/>
 </p>
 
 ---
