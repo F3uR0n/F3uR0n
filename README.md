@@ -44,9 +44,7 @@
 ## 🛠️ Languages & Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,js,flask,html,css" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,github,arduino,sklearn" /><img src="https://raw.githubusercontent.com/f3ur0n/f3ur0n/main/opengl.png" width="80" height="50" style="vertical-align: middle; border-radius: 12px;" />
+<img src="https://skillicons.dev/icons?i=mysql,github,arduino,sklearn" /><img src="https://raw.githubusercontent.com/f3ur0n/f3ur0n/main/opengl.png" width="80" height="50" style="vertical-align: middle; border-radius: 12px;" />
 </p>
 
 ---
