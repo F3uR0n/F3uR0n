@@ -7,9 +7,9 @@
 ---
 
 ## 🙋‍♂️ About Me
-<p align="center">
+<!-- <p align="center">
   <img src="cat.gif" width="350"/>
-</p>
+</p> -->
 
 - 🎓 CS undergraduate at **BRAC University**
 - 💻 Interested in **Backend, Algorithms, Patterns and Problem Solving**
