@@ -58,9 +58,27 @@
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Kalo Rituals
+### 🎬 CrakUFlix
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square)
+
+Netflix-style course video platform for BRAC University students. Browse lecture recordings across courses, track watch progress per account, and view site analytics, no backend or database required.
+
+<!--  🔗 Repository: [CrakUFlix](https://github.com/F3uR0n/CrakUFlix) -->
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-InfinityFree-blue?style=flat-square)](https://crak-u-flix.vercel.app/)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/CrakUFlix.png" width="550">
+</p>
+
+---
+
+### 👻 Kalo Rituals
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square)
@@ -78,7 +96,7 @@ Horror-themed ritual survival game built with Python and PyOpenGL. Navigate a tw
 
 ---
 
-### Smart Blood
+### 🩸 Smart Blood
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
@@ -91,7 +109,25 @@ Blood donation platform connecting donors, recipients, and organizations through
 [![Live Demo](https://img.shields.io/badge/Live_Demo-InfinityFree-blue?style=flat-square)](https://f3ur0n.42web.io/smart-blood-donor/index.php?i=1)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/Smart Blood.png" width="=600">
+  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/Smart Blood.png" width="550">
+</p>
+
+---
+
+### 🧬 Diabetes Prediction
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
+
+Production-style ML pipeline that trains and compares five classifiers for diabetes risk prediction, selects the best by F1 score, and serves results through a Flask web interface with risk percentage and key indicators.
+
+🔗 Repository: [Diabetes-Prediction](https://github.com/F3uR0n/diabetes-prediction-ml-flask)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square)](https://diabetes-predictor-7x8i.onrender.com/)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/Diabetes Prediction.png" width="550">
 </p>
 
 ---
