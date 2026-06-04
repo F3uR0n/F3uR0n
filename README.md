@@ -58,7 +58,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Featured Projects
 
 ### 🎬 CrakUFlix
 
@@ -66,7 +66,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square)
 
-Netflix-style course video platform for BRAC University students. Browse lecture recordings across courses, track watch progress per account, and view site analytics, no backend or database required.
+Netflix-style course video platform for BRAC University students. Browse lecture recordings across CS courses, watch YouTube and Google Drive videos in-app, mark videos as watched per Google account, and view aggregate site analytics, all with zero backend or database.
+
+- 📺 **Now** — Course browser, video playback, watch tracking, Google auth (BRACU accounts only), Umami analytics
+- 🛠️ **Phase 2** — Interactive Java code simulator for tracing loops and variable state step-by-step
+- 🤖 **Phase 3** — RAG-powered AI tutor grounded in course lecture content
 
 <!--  🔗 Repository: [CrakUFlix](https://github.com/F3uR0n/CrakUFlix) -->
 
