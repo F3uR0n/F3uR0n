@@ -91,7 +91,7 @@ Blood donation platform connecting donors, recipients, and organizations through
 [![Live Demo](https://img.shields.io/badge/Live_Demo-InfinityFree-blue?style=flat-square)](https://f3ur0n.42web.io/smart-blood-donor/index.php?i=1)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/Smart Blood.png" width="800">
+  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/Smart Blood.png" width="=600">
 </p>
 
 ---
