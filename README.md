@@ -77,7 +77,9 @@ Netflix-style course video platform for BRAC University students. Browse lecture
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat-square&logo=vercel)](https://crak-u-flix.vercel.app/)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/CrakUFlix.png" width="550">
+  <a href="https://crak-u-flix.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/CrakUFlix.png" width="550">
+  </a>
 </p>
 
 ---
@@ -95,7 +97,7 @@ Horror-themed ritual survival game built with Python and PyOpenGL. Navigate a tw
 [![Download](https://img.shields.io/badge/Download-Windows_Build-success?style=flat-square)](https://github.com/F3uR0n/kalo-rituals/releases/download/v1.0.0/KaloRituals-v1.0.0-Windows.zip)
 
 <!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/assets/kalo-rituals.gif" width="750">
+  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/assets/kalo-rituals.gif" width="550">
 </p> -->
 
 ---
@@ -113,7 +115,9 @@ Blood donation platform connecting donors, recipients, and organizations through
 [![Live Demo](https://img.shields.io/badge/Live_Demo-InfinityFree-blue?style=flat-square)](https://f3ur0n.42web.io/smart-blood-donor/index.php?i=1)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/Smart Blood.png" width="550">
+  <a href="https://f3ur0n.42web.io/smart-blood-donor/index.php?i=1" target="_blank">
+    <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/Smart Blood.png" width="550">
+  </a>
 </p>
 
 ---
@@ -131,7 +135,9 @@ Production-style ML pipeline that trains and compares five classifiers for diabe
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square)](https://diabetes-predictor-7x8i.onrender.com/)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/Diabetes Prediction.png" width="550">
+  <a href="https://diabetes-predictor-7x8i.onrender.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/Diabetes Prediction.png" width="550">
+  </a>
 </p>
 
 ---
