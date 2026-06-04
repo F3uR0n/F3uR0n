@@ -51,6 +51,13 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats-seven-ruby-93.vercel.app/api/top-langs?username=f3ur0n&layout=compact&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" height="150" />
+</p>
+
+---
+
 ## Featured Projects
 
 ### Kalo Rituals
@@ -84,14 +91,7 @@ Blood donation platform connecting donors, recipients, and organizations through
 [![Live Demo](https://img.shields.io/badge/Live_Demo-InfinityFree-blue?style=flat-square)](https://f3ur0n.42web.io/smart-blood-donor/index.php?i=1)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/SmartBlood.png" width="800">
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats-seven-ruby-93.vercel.app/api/top-langs?username=f3ur0n&layout=compact&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" height="150" />
+  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/Smart Blood.png" width="800">
 </p>
 
 ---
