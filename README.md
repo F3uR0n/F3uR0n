@@ -51,6 +51,44 @@
 
 ---
 
+## Featured Projects
+
+### Kalo Rituals
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square)
+![Horror Game](https://img.shields.io/badge/Horror_Game-1a1a1a?style=flat-square)
+
+Horror-themed ritual survival game built with Python and PyOpenGL. Navigate a two-floor arena, collect ritual artifacts, and survive against a ghost enemy across three difficulty modes, no game engine, built from scratch.
+
+🔗 Repository: [Kalo-Rituals](https://github.com/F3uR0n/kalo-rituals)
+
+[![Download](https://img.shields.io/badge/Download-Windows_Build-success?style=flat-square)](https://github.com/F3uR0n/kalo-rituals/releases/download/v1.0.0/KaloRituals-v1.0.0-Windows.zip)
+
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/assets/kalo-rituals.gif" width="750">
+</p> -->
+
+---
+
+### Smart Blood
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
+![Web App](https://img.shields.io/badge/Web_App-222222?style=flat-square)
+
+Blood donation platform connecting donors, recipients, and organizations through campaigns and emergency requests, with multi-role authentication and email verification.
+
+🔗 Repository: [Smart-Blood-Donor](https://github.com/F3uR0n/smart-blood-donor-system)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-InfinityFree-blue?style=flat-square)](https://f3ur0n.42web.io/smart-blood-donor/index.php?i=1)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/SmartBlood.png" width="800">
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats-seven-ruby-93.vercel.app/api/top-langs?username=f3ur0n&layout=compact&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" height="150" />
