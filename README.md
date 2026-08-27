@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farhan Sadik</h1>
+<h1 align="center">Hi, I'm Farhan Sadik</h1>
 <h3 align="center">3rd Year Computer Science Student at BRAC University</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=f3ur0n&label=Profile%20views&color=0e75b6&style=flat" alt="f3ur0n" />
@@ -9,15 +9,16 @@
 
 ---
 
-## 🙋‍♂️ About Me
-- 🎓 CS undergraduate at **BRAC University**
-- 💻 Interested in **Backend, Algorithms, Patterns and Problem Solving**
-- 🚀 Exploring **Web, ML, AI and System Design**
-- 📫 Reach me at **farhansadiknihal@gmail.com**
+## About Me
+- CS undergraduate at **BRAC University**
+- Focused on **AI/ML, Neural Networks & NLP**
+- Working on **Machine Learning & Deep Learning projects**
+- Exploring **Backend, Algorithms & Problem Solving**
+- Reach me at **farhansadiknihal@gmail.com**
 
 ---
  
-## 🌐 Connect With Me
+## Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/farhan-sadik-945571218" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -41,7 +42,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,js,flask,html,css" />
 </p>
@@ -51,16 +52,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats-seven-ruby-93.vercel.app/api/top-langs?username=f3ur0n&layout=compact&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" height="150" />
 </p>
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
-### 🎬 CrakUFlix
+### CrakUFlix
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
@@ -68,9 +69,9 @@
 
 Netflix-style course video platform for BRAC University students. Browse lecture recordings across CS courses, watch YouTube and Google Drive videos in-app, mark videos as watched per Google account, and view aggregate site analytics, all with zero backend or database.
 
-- 📺 **Now** :  Course browser, video playback, watch tracking, Google auth (BRACU accounts only), Umami analytics
-- 🛠️ **Phase 2** :  Interactive Java code simulator for tracing loops and variable state step-by-step
-- 🤖 **Phase 3** :  RAG-powered AI tutor grounded in course lecture content
+- **Now** :  Course browser, video playback, watch tracking, Google auth (BRACU accounts only), Umami analytics
+- **Phase 2** :  Interactive Java code simulator for tracing loops and variable state step-by-step
+- **Phase 3** :  RAG-powered AI tutor grounded in course lecture content
 
 <!--  🔗 Repository: [CrakUFlix](https://github.com/F3uR0n/CrakUFlix) -->
 
@@ -84,7 +85,7 @@ Netflix-style course video platform for BRAC University students. Browse lecture
 
 ---
 
-### 👻 Kalo Rituals
+### Kalo Rituals
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square)
@@ -102,7 +103,7 @@ Horror-themed ritual survival game built with Python and PyOpenGL. Navigate a tw
 
 ---
 
-### 🩸 Smart Blood
+### Smart Blood
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
@@ -122,7 +123,7 @@ Blood donation platform connecting donors, recipients, and organizations through
 
 ---
 
-### 🧬 Diabetes Prediction
+### Diabetes Prediction
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square)
