@@ -52,8 +52,6 @@
   <img src="https://raw.githubusercontent.com/f3ur0n/f3ur0n/main/opengl.png" width="80" height="50" style="vertical-align: middle; border-radius: 12px;" />
 </p>
 
----
-
 ## AI/ML Libraries
 
 <p align="center">
