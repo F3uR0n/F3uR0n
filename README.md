@@ -44,7 +44,7 @@
 
 ## Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,php,js,flask,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,php,js,flask,html,css" />
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 
 ## AI/ML & Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,matplotlib,seaborn,jupyter" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas" />
 </p>
 
 ---
