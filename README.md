@@ -83,7 +83,7 @@
 Netflix-style course video platform for BRAC University students. Browse lecture recordings across CS courses, watch YouTube and Google Drive videos in-app, mark videos as watched per Google account, and view aggregate site analytics, all with zero backend or database.
 
 - **Now** :  Course browser, video playback, watch tracking, Google auth (BRACU accounts only), Umami analytics
-- **Phase 2** :  Interactive Java code simulator for tracing loops and variable state step-by-step
+- **Phase 2(Beta)** :  Interactive Java code simulator for tracing loops and variable state step-by-step
 - **Phase 3** :  RAG-powered AI tutor grounded in course lecture content
 
 <!--  🔗 Repository: [CrakUFlix](https://github.com/F3uR0n/CrakUFlix) -->
@@ -116,27 +116,36 @@ Horror-themed ritual survival game built with Python and PyOpenGL. Navigate a tw
 
 ---
 
-### Smart Blood
+### GNN-BERT Music Context Understanding
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
-![Web App](https://img.shields.io/badge/Web_App-222222?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square)
+![PyG](https://img.shields.io/badge/PyG-blueviolet?style=flat-square)
 
-Blood donation platform connecting donors, recipients, and organizations through campaigns and emergency requests, with multi-role authentication and email verification.
+Hybrid deep learning system combining **GraphSAGE GNNs** and **DistilBERT** for music context understanding through audio-text fusion, cross-attention, and contrastive learning.
 
-🔗 Repository: [Smart-Blood-Donor](https://github.com/F3uR0n/smart-blood-donor-system)
+🔗 Repository: [GNN-BERT Music Context](https://github.com/F3uR0n/gnn-bert-music-context)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-InfinityFree-blue?style=flat-square)](https://f3ur0n.42web.io/smart-blood-donor/index.php?i=1)
-
-<p align="center">
-  <a href="https://f3ur0n.42web.io/smart-blood-donor/index.php?i=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/Smart Blood.png" width="550">
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/View_Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/F3uR0n/gnn-bert-music-context)
 
 ---
 
-### Diabetes Prediction
+### Cardiovascular Disease Risk Prediction
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
+
+Machine learning project for predicting **cardiovascular disease risk levels** using classification and regression models, including from-scratch Random Forest and AdaBoost implementations, PCA analysis, neural networks, and clinical risk evaluation.
+
+🔗 Repository: [Cardiovascular Disease Risk Prediction](https://github.com/F3uR0n/cardiovascular-disease-risk-prediction)
+
+[![GitHub](https://img.shields.io/badge/View_Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/F3uR0n/cardiovascular-disease-risk-prediction)
+
+---
+
+### Diabetes Risk Prediction
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square)
@@ -161,3 +170,23 @@ Production-style ML pipeline that trains and compares five classifiers for diabe
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+### Smart Blood
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
+![Web App](https://img.shields.io/badge/Web_App-222222?style=flat-square)
+
+Blood donation platform connecting donors, recipients, and organizations through campaigns and emergency requests, with multi-role authentication and email verification.
+
+🔗 Repository: [Smart-Blood-Donor](https://github.com/F3uR0n/smart-blood-donor-system)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-InfinityFree-blue?style=flat-square)](https://f3ur0n.42web.io/smart-blood-donor/index.php?i=1)
+
+<p align="center">
+  <a href="https://f3ur0n.42web.io/smart-blood-donor/index.php?i=1" target="_blank">
+    <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/Smart Blood.png" width="550">
+  </a>
+</p>
