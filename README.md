@@ -110,9 +110,11 @@ Horror-themed ritual survival game built with Python and PyOpenGL. Navigate a tw
 
 [![Download](https://img.shields.io/badge/Download-Windows_Build-success?style=flat-square)](https://github.com/F3uR0n/kalo-rituals/releases/download/v1.0.0/KaloRituals-v1.0.0-Windows.zip)
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/assets/kalo-rituals.gif" width="550">
-</p> -->
+<p align="center">
+  <a href="https://github.com/F3uR0n/kalo-rituals" target="_blank">
+    <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/kalo-rituals.png" width="550">
+  </a>
+</p>
 
 ---
 
