@@ -165,14 +165,6 @@ Production-style ML pipeline that trains and compares five classifiers for diabe
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ### Smart Blood
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square)
@@ -190,3 +182,10 @@ Blood donation platform connecting donors, recipients, and organizations through
     <img src="https://raw.githubusercontent.com/F3uR0n/F3uR0n/main/Smart Blood.png" width="550">
   </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/f3ur0n/f3ur0n/output/github-contribution-grid-snake.svg">
+</picture>
+
