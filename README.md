@@ -82,9 +82,9 @@
 
 Netflix-style course video platform for BRAC University students. Browse lecture recordings across CS courses, watch YouTube and Google Drive videos in-app, mark videos as watched per Google account, and view aggregate site analytics, all with zero backend or database.
 
-- **Now** :  Course browser, video playback, watch tracking, Google auth (BRACU accounts only), Umami analytics
-- **Phase 2(Beta)** :  Interactive Java code simulator for tracing loops and variable state step-by-step
-- **Phase 3** :  RAG-powered AI tutor grounded in course lecture content
+- **Phase 1 [DONE]** :  Course browser, video playback, watch tracking, Google auth (BRACU accounts only), Umami analytics
+- **Phase 2 [Beta]** :  Interactive Java code simulator for tracing loops and variable state step-by-step
+- **Phase 3 [UpComing]** :  RAG-powered AI tutor grounded in course lecture content
 
 <!--  🔗 Repository: [CrakUFlix](https://github.com/F3uR0n/CrakUFlix) -->
 
