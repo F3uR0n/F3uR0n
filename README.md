@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Farhan Sadik</h1>
 <h3 align="center">3rd Year Computer Science Student at BRAC University</h3>
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=f3ur0n)
+  <img src="https://komarev.com/ghpvc/?username=f3ur0n" alt="Profile views" />
 </p>
 <p align="center">
   <img src="cat.gif" width="350"/>
