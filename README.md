@@ -20,6 +20,9 @@
  
 ## Connect With Me
 <p align="center">
+<a href="https://portfolio-nu-silk-15.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
 <a href="https://linkedin.com/in/farhan-sadik-945571218" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
